@@ -1,0 +1,23 @@
+name: ericbrown.yoga
+favicon: null
+layout_spectrum: 0.6564710808452219
+typography_spectrum: 0.004329594550654292
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.18404780002310872
+  lightness: 0.4077583188191056
+  saturation: 0.3232261643279344
+  rhythmicContrast: 0.1437780847772956
+purpose: []
